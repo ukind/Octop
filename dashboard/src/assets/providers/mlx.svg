@@ -1,5 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
-  <rect width="64" height="64" rx="14" fill="#1D1D1F"/>
-  <text x="32" y="30" text-anchor="middle" font-family="SF Pro Display, -apple-system, sans-serif" font-weight="700" font-size="18" fill="#fff">MLX</text>
-  <text x="32" y="46" text-anchor="middle" font-family="SF Pro Display, -apple-system, sans-serif" font-weight="500" font-size="8" fill="#86868B">Apple Silicon</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 64 64"><rect width="64" height="64" fill="#1D1D1F" rx="14"/><text x="32" y="30" fill="#fff" font-family="SF Pro Display, -apple-system, sans-serif" font-size="18" font-weight="700" text-anchor="middle">MLX</text><text x="32" y="46" fill="#86868B" font-family="SF Pro Display, -apple-system, sans-serif" font-size="8" font-weight="500" text-anchor="middle">Apple Silicon</text></svg>
